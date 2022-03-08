@@ -1,7 +1,9 @@
-Instrucciones
-En este proyecto se realizo:
+<h2>Instrucciones</h2>
 
-Cuando se puñsa el botón calcular la página se redirigirá a calcularNotas.php con la información introducida en el formulario
+
+En este proyecto realize:
+
+Cuando se pulsa el botón calcular la página se redirigirá a calcularNotas.php con la información introducida en el formulario
 En la página calcularNotas.php se comprobará que los valores recibidos cumplen lo siguiente:
 
 
